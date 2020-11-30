@@ -12,3 +12,6 @@ The estrogen properties also help reduce another problem caused by hormonal defi
 Phytates are considered anti-nutritional factors, because they reduce the bioavailability in the body of some minerals such as calcium, iron, magnesium, manganese, copper and zinc, mainly. However, in the last decade, studies have shown that phytates also act as powerful antioxidant agents (preventing oxidation or aging of cells), thus fulfilling an important function in reducing the risks of several chronic and degenerative diseases, such as some types of cancer and arthritis. The phytate content in soybean varies from 1.5% of the grain composition, in beans from 2.5% and in brans such as wheat and rice from 4.5%.
 
 However, it is neutralized by heating, both by cooking at home and through industrial processes (UHT process), resulting in adequate preparations for human consumption. Therefore, soy-based beverages do not have anti-nutritional factors and can be consumed safely.[8][9] Soybean oil is the most used by the world population in food preparation. Other soy products include soy-based beverages, oils, flour, soy sauce, soap, cosmetics, resins, paints, solvents and biodiesel.
+
+
+<h1>Soy token</h1> 
