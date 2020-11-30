@@ -14,7 +14,7 @@ Phytates are considered anti-nutritional factors, because they reduce the bioava
 However, it is neutralized by heating, both by cooking at home and through industrial processes (UHT process), resulting in adequate preparations for human consumption. Therefore, soy-based beverages do not have anti-nutritional factors and can be consumed safely.[8][9] Soybean oil is the most used by the world population in food preparation. Other soy products include soy-based beverages, oils, flour, soy sauce, soap, cosmetics, resins, paints, solvents and biodiesel.
 
 
-<h1>ySoy token ySoy token helps change the senario of brazil with investment plan and entities to preserve the amazonian forest  </h1> 
+<h1>ySoy token (ySoy?)</h1> 
 
 
 
