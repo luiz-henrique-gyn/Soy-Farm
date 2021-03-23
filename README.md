@@ -17,19 +17,6 @@ However, it is neutralized by heating, both by cooking at home and through indus
 <h1>ySoy token (ySoy?)</h1> 
 
 
-
-
-
-<h1>ySoy token (ySoy) token helps change the senario of brazil with investment plan and entities to preserve the amazonian forest</h1>
-
-
-Deforestation of the Amazon
-The cultivation of soy is pointed out as one of the great causes of deforestation of the Amazon Forest. It is also related to land grabbing and violence against local communities, because of areas with cartorário problems and invasions of production areas written and documented.
-
-However, the soybean production areas are in force among those with the highest percentages of forest reserves and preservation areas according to the current forest code.
-
-
-
 Ysoy chain protocols derived from soybean chain,Binance Smart Chain protocols BEP-20 
 Symbols: Ysoy,yTofu,ySoymilk, ySoybean oil
 
