@@ -51,16 +51,16 @@ yTOFU
 ySoy Milk
 ysoybean oil
 
+Ysoy token smart contract
 
+Contract:0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42                                                                                                                        
+Total Supply:10,000 Ysoy                                                                            
+Symbol :Yso
 
 
 
                                                                           
-   Ysoy token smart contract
-
-Contract:0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42                                                                                                                        
-Total Supply:10,000 Ysoy                                                                                                                                                          Symbol :Ysoy
-
+ 
 
 
 
