@@ -1,5 +1,5 @@
 # Soy-Farm
-<h1>token mining farm ERC-20 (ySoy) soy present in the world ,living soy today !<h1><br>
+<h1>token mining farm BEP-20 (ySoy) soy present in the world ,living soy today !<h1><br>
 
 <h1>Soy</h1>
 
@@ -27,3 +27,41 @@ Deforestation of the Amazon
 The cultivation of soy is pointed out as one of the great causes of deforestation of the Amazon Forest. It is also related to land grabbing and violence against local communities, because of areas with cartorário problems and invasions of production areas written and documented.
 
 However, the soybean production areas are in force among those with the highest percentages of forest reserves and preservation areas according to the current forest code.
+
+
+
+Ysoy chain protocols derived from soybean chain,Binance Smart Chain protocols BEP-20 
+Symbols: Ysoy,yTofu,ySoymilk, ySoybean oil
+
+
+
+ySoy Token (ySoy?)
+
+ySoy Token (ySoy?)
+
+No mining Ysoy
+YSoy has a fixed minimum total supplement (10000 Ysoy)
+The ySoy BNB protocol is a group of non-competitive, interoperable, decentralized, smart multi-chain contracts that provide the building blocks for DeFi development. The project provides a bridge to connect the economics of BINANCE-based DEFi products to growing DeFi markets in other blockchains, and the first product built on the BNB protocol smart contracts. is a group of smart contracts. The representation of the ySoy token creating revenue across the BNB protocol ecosystem.
+BEP-20 token (ySoy)
+Ysoy not mineable
+YSoy has a fixed and minimum Ysoy suplay
+and an activating token for the mills, Ysoy allocated plus BNB generates the yToFU, ySoy Milk and ysoybean oil protocols.
+
+yTOFU
+ySoy Milk
+ysoybean oil
+
+
+
+
+
+                                                                          
+   Ysoy token smart contract
+
+Contract:0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42                                                                                                                        
+Total Supply:10,000 Ysoy                                                                                                                                                          Symbol :Ysoy
+
+
+
+
+
